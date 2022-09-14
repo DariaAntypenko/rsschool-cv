@@ -39,12 +39,12 @@ Now I want to improve my skills in javascript, I am taking a course in RS School
 
 ## Courses 
 
-ProgUa HTML and CSS (finished);
-Framework Tailwind (finished);
+ProgUa HTML and CSS (finished);  
+Framework Tailwind (finished);  
 Java Script Front-end course RS school Stage 1 (in progress);
 
 ## Languages
 
-Russian: native
-Ukrainian: native
+Russian: native   
+Ukrainian: native  
 English: Pre-Intermediate level 
